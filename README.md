@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-In this scenario, I used the AND, OR, and NOT operators in SQL to filter for information. This was done to get specific information about employees, their machines, and the departments they’re in. Additionally, I use INNER JOIN and RIGHT JOIN to retrieve information from two different tables, from separate machines, employees, and login attempts tables. This was done to investigate a recent security incident that compromised some machines.
+In this scenario, I used the AND, OR, and NOT operators in SQL to filter for information. This would be done to investigate security incidents that may have compromised some machines, therefore allowing me to update employee computers if needed. With these functions, I can get specific information about employees, their machines, and the departments they’re in. Additionally, I use INNER JOIN and RIGHT JOIN to retrieve information from two different tables, from separate machines, employees, and login attempts tables. 
 <br /> .
 
 
